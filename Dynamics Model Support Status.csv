@@ -1,0 +1,548 @@
+TSModelSummaryObject
+ModelClass,ModelType,Support,SupportGEDYD,SupportPTIDYR,SupportBPAIPF,CountActiveOnline,CountActive,CountInactive
+Aerodynamic Model,WTARA1,YES,Translate (WTGAR_A),YES,NO,0,0,0
+Aerodynamic Model,WTGAR_A,YES,YES (WTGA_A),Translate (WTARA1),NO,0,0,0
+AGC Controller,AGCBradley,YES,,,NO,0,0,0
+AGC Controller,AGCPulseRate,YES,,,NO,0,0,0
+AGC Controller,AGCSetpoint,YES,,,NO,0,0,0
+Area AGC Model,AreaAGC,YES,,,NO,0,0,0
+Bus Model,REPC_D,YES,YES,YES (HPLNTDU),NO,0,0,0
+DC Aux Signal,CFCAUT,YES,,YES,NO,0,0,0
+DC Aux Signal,CHAAUT,YES,,YES,NO,0,0,0
+DC Aux Signal,FCWDPT,YES,,YES,NO,0,0,0
+DC Aux Signal,PAUX12T,YES,,,NO,0,0,0
+DC Aux Signal,PAUX1T,YES,,YES,NO,0,0,0
+DC Aux Signal,PAUX2T,YES,,YES,NO,0,0,0
+DC Aux Signal,SQBAUT,YES,,YES,NO,0,0,0
+DC Line Model,BPA_D,YES,,,YES,0,0,0
+DC Line Model,CDC1T,YES,,YES,NO,0,0,0
+DC Line Model,CDC4T,YES,,YES,NO,0,0,0
+DC Line Model,CDC6,YES,YES,,NO,0,0,0
+DC Line Model,CDC6T,YES,,YES,NO,0,0,0
+DC Line Model,CDCMC,YES,,,NO,0,0,0
+DC Line Model,CEEL2T,YES,,YES,NO,0,0,0
+DC Line Model,CHATGY,YES,,,NO,0,0,0
+DC Line Model,CHIGATT,YES,,YES,NO,0,0,0
+DC Line Model,CHVDC2,YES,YES,YES,NO,0,0,0
+DC Line Model,CMDWS2T,YES,,YES,NO,0,0,0
+DC Line Model,EPCDC,YES,YES,,NO,0,0,0
+DC Line Model,RSPDC3,YES,,,NO,0,0,0
+Exciter,AC10C,YES,YES (ESAC10C),,NO,0,0,0
+Exciter,AC11C,YES,,YES,NO,0,0,0
+Exciter,AC1C,YES,YES (ESAC1C),YES,NO,0,0,0
+Exciter,AC2C,YES,YES (ESAC2C),YES,NO,0,0,0
+Exciter,AC3C,YES,YES (ESAC3C),YES,NO,0,0,0
+Exciter,AC4C,YES,YES (ESAC4C),YES,NO,0,0,0
+Exciter,AC5C,YES,YES (ESAC5C),YES,NO,0,0,0
+Exciter,AC6A,YES,YES (ESAC6A),YES (ESAC6A),NO,0,0,0
+Exciter,AC6C,YES,YES (ESAC6C),YES,NO,0,0,0
+Exciter,AC7B,YES,Translate (ESAC7B),YES,NO,0,0,0
+Exciter,AC7C,YES,YES (ESAC7C),YES,NO,0,0,0
+Exciter,AC8B,YES,,YES,NO,0,0,0
+Exciter,AC8C,YES,YES (ESAC8C),YES,NO,0,0,0
+Exciter,AC9C,YES,YES (ESAC9C),YES,NO,0,0,0
+Exciter,BBSEX1,YES,Translate (EXBBC),YES,NO,0,0,0
+Exciter,BPA_EA,YES,,,YES,0,0,0
+Exciter,BPA_EB,YES,,,YES,0,0,0
+Exciter,BPA_EC,YES,,,YES,0,0,0
+Exciter,BPA_ED,YES,,,YES,0,0,0
+Exciter,BPA_EE,YES,,,YES,0,0,0
+Exciter,BPA_EF,YES,,,YES,0,0,0
+Exciter,BPA_EG,YES,,,YES,0,0,0
+Exciter,BPA_EJ,YES,,,YES,0,0,0
+Exciter,BPA_EK,YES,,,YES,0,0,0
+Exciter,BPA_FA,YES,,,YES,0,0,0
+Exciter,BPA_FB,YES,,,YES,0,0,0
+Exciter,BPA_FC,YES,,,YES,0,0,0
+Exciter,BPA_FD,YES,,,YES,0,0,0
+Exciter,BPA_FE,YES,,,YES,0,0,0
+Exciter,BPA_FF,YES,,,YES,0,0,0
+Exciter,BPA_FG,YES,,,YES,0,0,0
+Exciter,BPA_FH,YES,,,YES,0,0,0
+Exciter,BPA_FJ,YES,,,YES,0,0,0
+Exciter,BPA_FK,YES,,,YES,0,0,0
+Exciter,BPA_FL,YES,,,YES,0,0,0
+Exciter,BPA_FM,YES,,,YES,0,0,0
+Exciter,BPA_FN,YES,,,YES,0,0,0
+Exciter,BPA_FO,YES,,,YES,0,0,0
+Exciter,BPA_FP,YES,,,YES,0,0,0
+Exciter,BPA_FQ,YES,,,YES,0,0,0
+Exciter,BPA_FR,YES,,,YES,0,0,0
+Exciter,BPA_FS,YES,,,YES,0,0,0
+Exciter,BPA_FT,YES,,,YES,0,0,0
+Exciter,BPA_FU,YES,,,YES,0,0,0
+Exciter,BPA_FV,YES,,,YES,0,0,0
+Exciter,CELIN,YES,,YES,NO,0,0,0
+Exciter,DC1C,YES,YES (ESDC1C),YES,NO,0,0,0
+Exciter,DC2C,YES,YES (ESDC2C),YES,NO,0,0,0
+Exciter,DC3A,YES,,YES,NO,0,0,0
+Exciter,DC4B,YES,,YES,NO,0,0,0
+Exciter,DC4C,YES,YES (ESDC4C),YES,NO,0,0,0
+Exciter,EMAC1T,YES,,YES,NO,0,0,0
+Exciter,ESAC1A,YES,YES,YES,NO,0,0,0
+Exciter,ESAC2A,YES,YES,YES,NO,0,0,0
+Exciter,ESAC3A,YES,YES,YES,NO,0,0,0
+Exciter,ESAC4A,YES,YES,YES,NO,0,0,0
+Exciter,ESAC5A,YES,YES,YES,NO,0,0,0
+Exciter,ESAC6A,YES,YES,YES,NO,0,0,0
+Exciter,ESAC7B,YES,YES,Translate (AC7B),NO,0,0,0
+Exciter,ESAC8B_GE,YES,YES (ESAC8B),,NO,0,0,0
+Exciter,ESAC8B_PTI,YES,,YES (ESAC8B),NO,0,0,0
+Exciter,ESDC1A,YES,YES,YES,NO,0,0,0
+Exciter,ESDC2A,YES,YES,YES,NO,0,0,0
+Exciter,ESDC3A,YES,YES,,NO,0,0,0
+Exciter,ESDC4B,YES,YES,,NO,0,0,0
+Exciter,ESST1A,YES,,YES,NO,0,0,0
+Exciter,ESST1A_GE,YES,YES (ESST1A),,NO,0,0,0
+Exciter,ESST2A,YES,YES,YES,NO,0,0,0
+Exciter,ESST3A,YES,YES,YES,NO,0,0,0
+Exciter,ESST4B,YES,YES,YES,NO,0,0,0
+Exciter,ESST5B,YES,YES,,NO,0,0,0
+Exciter,ESST6B,YES,YES,,NO,0,0,0
+Exciter,ESST7B,YES,YES,,NO,0,0,0
+Exciter,ESURRY,YES,YES (EXAC1M),YES,NO,0,0,0
+Exciter,EWTGFC,YES,YES,,NO,0,0,0
+Exciter,EX2000,YES,,YES,NO,0,0,0
+Exciter,EXAC1,YES,YES,YES,NO,0,0,0
+Exciter,EXAC1A,YES,YES,YES,NO,0,0,0
+Exciter,EXAC2,YES,YES,YES,NO,0,0,0
+Exciter,EXAC3,YES,YES,YES,NO,0,0,0
+Exciter,EXAC3A,YES,YES,Translate (ESAC3A),NO,0,0,0
+Exciter,EXAC4,YES,YES,YES,NO,0,0,0
+Exciter,EXAC6A,YES,YES,,NO,0,0,0
+Exciter,EXAC8B,YES,YES,,NO,0,0,0
+Exciter,EXBAS,YES,,YES,NO,0,0,0
+Exciter,EXBBC,YES,YES,Translate (BBSEX1),NO,0,0,0
+Exciter,EXDC1,YES,YES,Translate (IEEEX1),YES,0,0,0
+Exciter,EXDC2_GE,YES,YES (EXDC2),,NO,0,0,0
+Exciter,EXDC2_PTI,YES,,YES (EXDC2),YES,0,0,0
+Exciter,EXDC2A,YES,YES (EXDC2),Translate (ESDC2A),NO,0,0,0
+Exciter,EXDC4,YES,YES,Translate (IEEET4),NO,0,0,0
+Exciter,EXELI,YES,YES,YES,NO,0,0,0
+Exciter,EXIVO,YES,YES,,NO,0,0,0
+Exciter,EXPIC1,YES,YES,YES,NO,0,0,0
+Exciter,EXST1_GE,YES,YES (EXST1),,NO,0,0,0
+Exciter,EXST1_PTI,YES,,YES (EXST1),NO,0,0,0
+Exciter,EXST2,YES,YES,YES,NO,0,0,0
+Exciter,EXST2A,YES,YES,YES,NO,0,0,0
+Exciter,EXST3,YES,YES,YES,NO,0,0,0
+Exciter,EXST3A,YES,YES,,NO,0,0,0
+Exciter,EXST4B,YES,YES,Translate (ESST4B),NO,0,0,0
+Exciter,EXWTG1,YES,YES,,NO,0,0,0
+Exciter,EXWTGE,YES,YES,,NO,0,0,0
+Exciter,IEEET1,YES,YES,YES,NO,0,0,0
+Exciter,IEEET2,YES,,YES,NO,0,0,0
+Exciter,IEEET3,YES,,YES,NO,0,0,0
+Exciter,IEEET4,YES,Translate (EXDC4),YES,NO,0,0,0
+Exciter,IEEET5,YES,,YES,NO,0,0,0
+Exciter,IEEEX1,YES,Translate (EXDC1),YES,NO,0,0,0
+Exciter,IEEEX2,YES,,YES,NO,0,0,0
+Exciter,IEEEX3,YES,,YES,NO,0,0,0
+Exciter,IEEEX4,YES,,YES,NO,0,0,0
+Exciter,IEET1A,YES,,YES,NO,0,0,0
+Exciter,IEET1B,NO,,YES,NO,0,0,0
+Exciter,IEET5A,YES,,YES,NO,0,0,0
+Exciter,IEEX2A,YES,,YES,NO,0,0,0
+Exciter,IVOEX,YES,,YES,NO,0,0,0
+Exciter,MEXS,YES,YES,,NO,0,0,0
+Exciter,PLAYINEX,YES,,,NO,0,0,0
+Exciter,PV1E,YES,YES,Translate (WT4E1),NO,0,0,0
+Exciter,REEC_A,YES,YES,Translate (REECA1),NO,0,0,0
+Exciter,REEC_B,YES,YES,Translate (REECB1),NO,0,0,0
+Exciter,REEC_C,YES,YES,Translate (REECC1),NO,0,0,0
+Exciter,REEC_D,YES,YES,YES (REECD1),NO,0,0,0
+Exciter,REEC_E,YES,YES,YES (REECE),NO,0,0,0
+Exciter,REECA1,YES,Translate (REEC_A),YES,NO,0,0,0
+Exciter,REECB1,YES,Translate (REEC_B),YES,NO,0,0,0
+Exciter,REECC1,YES,Translate (REEC_C),YES,NO,0,0,0
+Exciter,REXS,YES,YES,Translate (REXSYS),NO,0,0,0
+Exciter,REXSY1,YES,,YES,NO,0,0,0
+Exciter,REXSYS,YES,Translate (REXS),YES,NO,0,0,0
+Exciter,SCRX,YES,YES,YES,NO,0,0,0
+Exciter,SEXS_GE,YES,YES (SEXS),,NO,0,0,0
+Exciter,SEXS_PTI,YES,Translate (SEXS),YES (SEXS),NO,0,0,0
+Exciter,ST10C,YES,,YES,NO,0,0,0
+Exciter,ST1C,YES,YES (ESST1C),YES,NO,0,0,0
+Exciter,ST2C,YES,YES (ESST2C),,NO,0,0,0
+Exciter,ST3C,YES,YES (ESST3C),,NO,0,0,0
+Exciter,ST4C,YES,YES (ESST4C),YES,NO,0,0,0
+Exciter,ST5B,YES,,YES,NO,0,0,0
+Exciter,ST5C,YES,YES (ESST5C),YES,NO,0,0,0
+Exciter,ST6B,YES,,YES,NO,0,0,0
+Exciter,ST6C,YES,YES (ESST6C),,NO,0,0,0
+Exciter,ST6C_PTI,YES,,YES (ST6C),NO,0,0,0
+Exciter,ST7B,YES,,YES,NO,0,0,0
+Exciter,ST7C,YES,YES (ESST7C),YES,NO,0,0,0
+Exciter,ST8C,YES,YES (ESST8C),YES,NO,0,0,0
+Exciter,ST9C,YES,YES (ESST9C),YES,NO,0,0,0
+Exciter,TEXS,YES,YES,,NO,0,0,0
+Exciter,URST5T,YES,,YES,NO,0,0,0
+Exciter,WT2E,YES,YES,Translate (WT2E1),NO,0,0,0
+Exciter,WT2E1,YES,Translate (WT2E),YES,NO,0,0,0
+Exciter,WT3E,YES,YES,Translate (WT3E1),NO,0,0,0
+Exciter,WT3E1,YES,Translate (WT3E),YES,NO,0,0,0
+Exciter,WT4E,YES,YES,Translate (WT4E1),NO,0,0,0
+Exciter,WT4E1,YES,Translate (WT4E),YES,NO,0,0,0
+Governor,BBGOV1,YES,,YES,NO,0,0,0
+Governor,BPA_GG,YES,,,YES,0,0,0
+Governor,BPA_GH,YES,,,YES,0,0,0
+Governor,BPA_GIGATB,YES,,,YES,0,0,0
+Governor,BPA_GJGATB,YES,,,YES,0,0,0
+Governor,BPA_GKGATB,YES,,,YES,0,0,0
+Governor,BPA_GLTB,YES,,,YES,0,0,0
+Governor,BPA_GSTA,YES,,,YES,0,0,0
+Governor,BPA_GSTB,YES,,,YES,0,0,0
+Governor,BPA_GSTC,YES,,,YES,0,0,0
+Governor,BPA_GWTW,YES,,,YES,0,0,0
+Governor,CCBT1,YES,YES,,NO,0,0,0
+Governor,CRCMGV,YES,YES,YES,NO,0,0,0
+Governor,DEGOV,YES,,YES,NO,0,0,0
+Governor,DEGOV1,YES,YES,YES,NO,0,0,0
+Governor,DEGOV1D,YES,,,NO,0,0,0
+Governor,G2WSCC,YES,YES,Translate (WSHYDD),NO,0,0,0
+Governor,GAST_GE,YES,YES (GAST),Translate (URGS3T),NO,0,0,0
+Governor,GAST_PTI,YES,Translate (GAST),YES (GAST),NO,0,0,0
+Governor,GAST2A,YES,,YES,NO,0,0,0
+Governor,GAST2A_AIR,YES,,Translate (GAST2A),NO,0,0,0
+Governor,GAST2AD,YES,,,NO,0,0,0
+Governor,GASTD,YES,,,NO,0,0,0
+Governor,GASTWD,YES,,YES,NO,0,0,0
+Governor,GASTWD_AIR,YES,,Translate (GASTWD),NO,0,0,0
+Governor,GASTWDD,YES,,,NO,0,0,0
+Governor,GGOV1,YES,YES,YES,NO,0,0,0
+Governor,GGOV1D,YES,,YES,NO,0,0,0
+Governor,GGOV2,YES,YES,,NO,0,0,0
+Governor,GGOV3,YES,YES,,NO,0,0,0
+Governor,GPWSCC,YES,YES,Translate (WSHYGP),NO,0,0,0
+Governor,H6E,YES,YES,,NO,0,0,0
+Governor,HGBLEM,YES,,,NO,0,0,0
+Governor,HRSGSimple,YES,,,NO,0,0,0
+Governor,HYG3,YES,YES,YES,NO,0,0,0
+Governor,HYGOV,YES,YES,YES,NO,0,0,0
+Governor,HYGOV2,YES,,YES,NO,0,0,0
+Governor,HYGOV2D,YES,,,NO,0,0,0
+Governor,HYGOV4,YES,YES,,NO,0,0,0
+Governor,HYGOVD,YES,,,NO,0,0,0
+Governor,HYGOVR,YES,YES,,NO,0,0,0
+Governor,HYGOVR1,YES,,YES,NO,0,0,0
+Governor,HYPID,YES,YES,,NO,0,0,0
+Governor,HYST1,NO,YES,,NO,0,0,0
+Governor,IEEEG1,YES,Translate (IEEEG1),YES,NO,0,0,0
+Governor,IEEEG1_GE,YES,YES (IEEEG1),,NO,0,0,0
+Governor,IEEEG1D,YES,,,NO,0,0,0
+Governor,IEEEG1PID,YES,,,NO,0,0,0
+Governor,IEEEG2,YES,,YES,NO,0,0,0
+Governor,IEEEG3_GE,YES,YES (IEEEG3),,NO,0,0,0
+Governor,IEEEG3_PTI,YES,Translate (IEEEG3),YES (IEEEG3),NO,0,0,0
+Governor,IEEEG3D,YES,,,NO,0,0,0
+Governor,IEESGO,YES,,YES,NO,0,0,0
+Governor,IEESGOD,YES,,,NO,0,0,0
+Governor,ISOGOV1,YES,,,NO,0,0,0
+Governor,PIDGOV,YES,YES,YES,NO,0,0,0
+Governor,PIDGOVD,YES,,,NO,0,0,0
+Governor,PLAYINGOV,YES,,,NO,0,0,0
+Governor,SHAF25,NO,,YES,NO,0,0,0
+Governor,TGOV1,YES,YES,YES,NO,0,0,0
+Governor,TGOV1D,YES,,,NO,0,0,0
+Governor,TGOV2,YES,,YES,NO,0,0,0
+Governor,TGOV3,YES,YES,YES,NO,0,0,0
+Governor,TGOV3D,YES,,,NO,0,0,0
+Governor,TGOV5,YES,,YES,NO,0,0,0
+Governor,TURCZT,YES,,YES,NO,0,0,0
+Governor,UCBGT,YES,,,NO,0,0,0
+Governor,UCCPSS,YES,,,NO,0,0,0
+Governor,UHRSG,YES,,,NO,0,0,0
+Governor,URGS3T,YES,Translate (GAST),YES,NO,0,0,0
+Governor,W2301,YES,YES,,NO,0,0,0
+Governor,WEHGOV,YES,,YES,NO,0,0,0
+Governor,WESGOV,YES,,YES,NO,0,0,0
+Governor,WESGOVD,YES,,,NO,0,0,0
+Governor,WNDTGE,YES,YES,,NO,0,0,0
+Governor,WNDTRB,YES,YES,,NO,0,0,0
+Governor,WPIDHY,YES,Translate (PIDGOV),YES,NO,0,0,0
+Governor,WPIDHYD,YES,,,NO,0,0,0
+Governor,WSHYDD,YES,Translate (G2WSCC),YES,NO,0,0,0
+Governor,WSHYGP,YES,Translate (GPWSCC),YES,NO,0,0,0
+Governor,WSIEG1,YES,Translate (IEEEG1),YES,NO,0,0,0
+Governor,WT12T1,YES,Translate (WT1T),YES,NO,0,0,0
+Governor,WT1T,YES,YES,Translate (WT12T1),NO,0,0,0
+Governor,WT2T,YES,YES,Translate (WT12T1),NO,0,0,0
+Governor,WT3T,YES,YES,Translate (WT3T1),NO,0,0,0
+Governor,WT3T1,YES,Translate (WT3T),YES,NO,0,0,0
+Governor,WT4T,YES,YES,,NO,0,0,0
+Governor,WTDTA1,YES,YES (WTGT_A),YES,NO,0,0,0
+Governor,WTGT_A,YES,YES,,NO,0,0,0
+Governor,WTGT_B,YES,Translate (WTGT_A),,NO,0,0,0
+Injection Group Model,GroupMSS,YES,,,NO,0,0,0
+Line Relay Model,DIFFRLYG,YES,,,NO,0,0,0
+Line Relay Model,DIFFRLYS,YES,,,NO,0,0,0
+Line Relay Model,DIRECLEN,YES,,,NO,0,0,0
+Line Relay Model,DISTR1,YES,,YES,NO,0,0,0
+Line Relay Model,DISTRELAY,YES,,,NO,0,0,0
+Line Relay Model,DISTRELAYITR,YES,YES,,NO,0,0,0
+Line Relay Model,FACRI_SC,YES,,,NO,0,0,0
+Line Relay Model,LOCTI,YES,YES,,NO,0,0,0
+Line Relay Model,OOSLEN,YES,YES,,NO,0,0,0
+Line Relay Model,OOSLNQ,YES,YES,,NO,0,0,0
+Line Relay Model,OOSMHO,YES,YES,,NO,0,0,0
+Line Relay Model,RELODEN,YES,YES,,NO,0,0,0
+Line Relay Model,RXR1,NO,,YES,NO,0,0,0
+Line Relay Model,SCGAP,YES,YES,,NO,0,0,0
+Line Relay Model,SCMOV,YES,YES,,NO,0,0,0
+Line Relay Model,SERIESCAPRELAY,YES,,,NO,0,0,0
+Line Relay Model,SIMPLEOC1,YES,,,NO,0,0,0
+Line Relay Model,TIOCR1,YES,,YES,NO,0,0,0
+Line Relay Model,TIOCRS,YES,YES,,NO,0,0,0
+Line Relay Model,TIOCRSRF,YES,,,NO,0,0,0
+Line Relay Model,TLIN1,YES,YES,,NO,0,0,0
+Line Relay Model,TLIN1O,YES,,,NO,0,0,0
+Line Relay Model,UF_AK,YES,,,NO,0,0,0
+Line Relay Model,ZDCB,YES,YES,,NO,0,0,0
+Line Relay Model,ZLIN1,YES,YES,,NO,0,0,0
+Line Relay Model,ZLINW,YES,YES,,NO,0,0,0
+Line Relay Model,ZPOTT,YES,YES,,NO,0,0,0
+Line Relay Model,ZQLIN1,YES,YES,,NO,0,0,0
+Line Relay Model,ZQLIN2,NO,YES,,NO,0,0,0
+Line Shunt Model,MSLR1,YES,YES (MSR1),,NO,0,0,0
+Load Characteristic,BPA_Induction_MotorI,YES,,,YES,0,0,0
+Load Characteristic,BPA_Induction_MotorL,YES,,,YES,0,0,0
+Load Characteristic,BPA_Type_LA,YES,,,YES,0,0,0
+Load Characteristic,BPA_Type_LB,YES,,,YES,0,0,0
+Load Characteristic,BRAKE,YES,,,NO,0,0,0
+Load Characteristic,CIM5,YES,,YES,NO,0,0,0
+Load Characteristic,CIM5_PTR,YES,,,NO,0,0,0
+Load Characteristic,CIM6,YES,,YES,NO,0,0,0
+Load Characteristic,CIMW,YES,,YES,NO,0,0,0
+Load Characteristic,CLOD,YES,,YES,NO,0,0,0
+Load Characteristic,CMLD,YES,,YES,NO,0,0,0
+Load Characteristic,CMPLDW,YES,YES,,NO,0,0,0
+Load Characteristic,CMPLDWNF,YES,,,NO,0,0,0
+Load Characteristic,CompLoad,YES,,,NO,0,0,0
+Load Characteristic,DLIGHT,YES,,,NO,0,0,0
+Load Characteristic,EXTL,YES,,YES,NO,0,0,0
+Load Characteristic,IEEL,YES,,YES,NO,0,0,0
+Load Characteristic,INDMOT1P,YES,,,NO,0,0,0
+Load Characteristic,INDMOT1P_PTR,YES,,,NO,0,0,0
+Load Characteristic,INDMOT3P_A,YES,,,NO,0,0,0
+Load Characteristic,LD1PAC,YES,YES,,NO,0,0,0
+Load Characteristic,LD1PAC_CMP,YES,,,NO,0,0,0
+Load Characteristic,LDELEC,YES,YES,,NO,0,0,0
+Load Characteristic,LDFR,YES,,YES,NO,0,0,0
+Load Characteristic,LDRANDOM,YES,,,NO,0,0,0
+Load Characteristic,LDVFD_A,YES,,,NO,0,0,0
+Load Characteristic,LoadTimeSchedule,YES,,,NO,0,0,0
+Load Characteristic,MOTOR_CMP,YES,,,NO,0,0,0
+Load Characteristic,MOTORC,YES,YES,,NO,0,0,0
+Load Characteristic,MOTORW,YES,YES,,NO,0,0,0
+Load Characteristic,MOTORX,YES,YES,,NO,0,0,0
+Load Characteristic,WSCC,YES,YES,,NO,0,0,0
+Load Dist Gen,DGDER_A,YES,,,NO,0,0,0
+Load Dist Gen,DGPV,YES,,,NO,0,0,0
+Load Relay,DLSH,YES,,YES,NO,0,0,0
+Load Relay,LDS3,YES,,YES,NO,0,0,0
+Load Relay,LDS3_OF_AK,YES,,,NO,0,0,0
+Load Relay,LDS4,YES,,,NO,0,0,0
+Load Relay,LDSH,YES,,YES,NO,0,0,0
+Load Relay,LDST,YES,,YES,NO,0,0,0
+Load Relay,LRDT9,YES,,,NO,0,0,0
+Load Relay,LSDT1,YES,YES,,NO,0,0,0
+Load Relay,LSDT2,YES,YES,,NO,0,0,0
+Load Relay,LSDT3,YES,YES,,NO,0,0,0
+Load Relay,LSDT3A,YES,YES,,NO,0,0,0
+Load Relay,LSDT7,YES,YES,,NO,0,0,0
+Load Relay,LSDT8,YES,YES,,NO,0,0,0
+Load Relay,LSDT9,YES,YES,,NO,0,0,0
+Load Relay,LVS3,YES,,YES,NO,0,0,0
+Load Relay,LVSH,YES,,YES,NO,0,0,0
+Machine Model,BPASVC,YES,,,YES,0,0,0
+Machine Model,CBEST,YES,,YES,NO,0,0,0
+Machine Model,CIMTR1,YES,,YES,NO,0,0,0
+Machine Model,CIMTR2,YES,,YES,NO,0,0,0
+Machine Model,CIMTR3,YES,,YES,NO,0,0,0
+Machine Model,CIMTR4,YES,,YES,NO,0,0,0
+Machine Model,CSTATT,YES,,YES,NO,0,0,0
+Machine Model,CSVGN1,YES,Translate (CSVGN1),YES,NO,0,0,0
+Machine Model,CSVGN3,YES,,YES,NO,0,0,0
+Machine Model,CSVGN4,YES,,YES,NO,0,0,0
+Machine Model,CSVGN5,YES,Translate (VWSCC),YES,NO,0,0,0
+Machine Model,CSVGN6,YES,Translate (SVCWSC),YES,NO,0,0,0
+Machine Model,DER_A,YES,YES,,NO,0,0,0
+Machine Model,GEN_BPA_MMG2,YES,,,YES,0,0,0
+Machine Model,GEN_BPA_MMG3,YES,,,YES,0,0,0
+Machine Model,GEN_BPA_MMG4,YES,,,YES,0,0,0
+Machine Model,GEN_BPA_MMG5,YES,,,YES,0,0,0
+Machine Model,GEN_BPA_MMG6,YES,,,YES,0,0,0
+Machine Model,GENCC,YES,YES,Translate (GENTPJ1),NO,0,0,0
+Machine Model,GENCLS,YES,YES,YES,YES,0,0,0
+Machine Model,GENCLS_PLAYBACK,YES,YES (GENCLS),,NO,0,0,0
+Machine Model,GENDCO,YES,,YES,NO,0,0,0
+Machine Model,GENIND,YES,YES,,NO,0,0,0
+Machine Model,GENPWFluxDecay,YES,,,NO,0,0,0
+Machine Model,GENPWTwoAxis,YES,,,NO,0,0,0
+Machine Model,GENQEC,YES,YES,YES,NO,0,0,0
+Machine Model,GENQEJ,YES,YES,YES,NO,0,0,0
+Machine Model,GENROE,YES,Translate (GENROU),YES,YES,0,0,0
+Machine Model,GENROU,YES,Translate (GENROU),YES,YES,0,0,0
+Machine Model,GENSAE,YES,Translate (GENSAL),YES,YES,0,0,0
+Machine Model,GENSAL,YES,Translate (GENSAL),YES,YES,0,0,0
+Machine Model,GENTPF,YES,YES,Translate (GENTPJ1),NO,0,0,0
+Machine Model,GENTPJ,YES,YES,Translate (GENTPJ1),NO,0,0,0
+Machine Model,GENTRA,YES,Translate (GENTPJ),YES,YES,0,0,0
+Machine Model,GENWRI,YES,YES,,NO,0,0,0
+Machine Model,GEWTG,YES,YES,,NO,0,0,0
+Machine Model,GVABES,YES,,,NO,0,0,0
+Machine Model,InfiniteBusSignalGen,YES,,,NO,0,0,0
+Machine Model,MOTOR1,YES,YES,,NO,0,0,0
+Machine Model,PLAYINGEN,YES,,,NO,0,0,0
+Machine Model,PV1G,YES,YES,Translate (WT4G1),NO,0,0,0
+Machine Model,PVD1,YES,YES,,NO,0,0,0
+Machine Model,REGC_A,YES,YES,YES (REGCA1),NO,0,0,0
+Machine Model,REGC_B,YES,YES,YES (REGCB1),NO,0,0,0
+Machine Model,REGC_C,YES,YES,YES (REGCC1),NO,0,0,0
+Machine Model,REGFM_A1,YES,YES,YES (REGFMA1),NO,0,0,0
+Machine Model,REGFM_B1,YES,,,NO,0,0,0
+Machine Model,STCON,YES,YES,,NO,0,0,0
+Machine Model,SVCWSC,YES,YES,Translate (CSVGN6),NO,0,0,0
+Machine Model,VWSCC,YES,YES,Translate (CSVGN5),NO,0,0,0
+Machine Model,WT1G,YES,YES,Translate (WT1G1),NO,0,0,0
+Machine Model,WT1G1,YES,Translate (WT1G),YES,NO,0,0,0
+Machine Model,WT2G,YES,YES,Translate (WT2G1),NO,0,0,0
+Machine Model,WT2G1,YES,,YES,NO,0,0,0
+Machine Model,WT3G,YES,YES,Translate (WT3G2),NO,0,0,0
+Machine Model,WT3G1,YES,,YES,NO,0,0,0
+Machine Model,WT3G2,YES,Translate (WT3G),YES,NO,0,0,0
+Machine Model,WT4G,YES,YES,Translate (WT4G1),NO,0,0,0
+Machine Model,WT4G1,YES,Translate (WT4G),YES,NO,0,0,0
+Measurement Object Model,CMPLDWALTT1,NO,,,NO,0,0,0
+Measurement Object Model,CMPLDWDemo,YES,,,NO,0,0,0
+Measurement Object Model,CompLoadMon,YES,,,NO,0,0,0
+Measurement Object Model,LDTRPMON,YES,YES,,NO,0,0,0
+MTDCConverter Model,CONV_Adelanto,YES,,,NO,0,0,0
+MTDCConverter Model,CONV_CELILO_E,YES,,,NO,0,0,0
+MTDCConverter Model,CONV_CELILO_N,YES,,,NO,0,0,0
+MTDCConverter Model,CONV_IntMtnPP,YES,,,NO,0,0,0
+MTDCConverter Model,CONV_SYLMAR,YES,,,NO,0,0,0
+MTDCRecord Model,MTDC_IPP,YES,,,NO,0,0,0
+MTDCRecord Model,MTDC_PDCI,YES,,,NO,0,0,0
+Over Excitation Limiter,MAXEX1,YES,,YES,NO,0,0,0
+Over Excitation Limiter,MAXEX2,YES,,YES,NO,0,0,0
+Over Excitation Limiter,OEL1,YES,YES,,NO,0,0,0
+Over Excitation Limiter,OEL1B,YES,YES,,NO,0,0,0
+Over Excitation Limiter,OEL2C,YES,YES,YES,NO,0,0,0
+Over Excitation Limiter,OEL3C,YES,YES,,NO,0,0,0
+Over Excitation Limiter,OEL4C,YES,YES,,NO,0,0,0
+Over Excitation Limiter,OEL5C,YES,YES,,NO,0,0,0
+Paux Controller,PAUXSS1A,YES,,,NO,0,0,0
+Paux Controller,PLAYINPAUX,YES,,,NO,0,0,0
+Paux Controller,PROBOOST,YES,,,NO,0,0,0
+Paux Controller,WTGIBFFR_A,YES,YES,,NO,0,0,0
+Plant Controller,PF1,YES,,,NO,0,0,0
+Plant Controller,PF2,YES,,,NO,0,0,0
+Plant Controller,PLAYINREF,YES,,,NO,0,0,0
+Plant Controller,REPC_A,YES,YES,Translate (REPCA1),NO,0,0,0
+Plant Controller,REPC_B,YES,YES,Translate (REPCA1),NO,0,0,0
+Plant Controller,REPC_B100,YES,,Translate (REPCA1),NO,0,0,0
+Plant Controller,REPC_C,YES,YES,YES (REPCC),NO,0,0,0
+Plant Controller,REPCA1,YES,Translate (REPC_A),YES,NO,0,0,0
+Plant Controller,REPCTA1,YES,Translate (REPC_A),YES (REPCA1),NO,0,0,0
+Plant Controller,VAR1,YES,,,NO,0,0,0
+Plant Controller,VAR2,YES,,,NO,0,0,0
+Pref Controller,LCFB1,YES,YES,Translate (LCFB1_PTI),NO,0,0,0
+Pref Controller,LCFB1_PTI,YES,Translate (LCFB1),YES (LCFB1),NO,0,0,0
+Pref Controller,WTGTRQ_A,YES,YES (WTGQ_A),Translate (WTTQA1),NO,0,0,0
+Pref Controller,WTGWGO_A,YES,YES,YES (WTGWGOA),NO,0,0,0
+Pref Controller,WTTQA1,YES,YES (WTGQ_A),YES,NO,0,0,0
+Relay Model,ATRRELAY,YES,,,NO,0,0,0
+Relay Model,FRQDCAT,YES,Translate (LHFRT),YES,NO,0,0,0
+Relay Model,FRQTPAT,YES,,YES,NO,0,0,0
+Relay Model,GENOF,YES,,,NO,0,0,0
+Relay Model,GP1,YES,YES,,NO,0,0,0
+Relay Model,GP2,YES,YES,,NO,0,0,0
+Relay Model,GP3,YES,,,NO,0,0,0
+Relay Model,GVPHZFT,YES,YES,,NO,0,0,0
+Relay Model,GVPHZIT,YES,YES,,NO,0,0,0
+Relay Model,LHFRT,YES,YES,,NO,0,0,0
+Relay Model,LHSRT,YES,YES,,NO,0,0,0
+Relay Model,LHVRT,YES,YES,,NO,0,0,0
+Relay Model,VPERHZ1,YES,,YES,NO,0,0,0
+Relay Model,VTGDCAT,YES,,YES,NO,0,0,0
+Relay Model,VTGTPAT,YES,,YES,NO,0,0,0
+Stabilizer,BPA_SF,YES,,,YES,0,0,0
+Stabilizer,BPA_SG,YES,,,YES,0,0,0
+Stabilizer,BPA_SH,NO,,,YES,0,0,0
+Stabilizer,BPA_SHPLUS,NO,,,YES,0,0,0
+Stabilizer,BPA_SI,YES,,,YES,0,0,0
+Stabilizer,BPA_SP,YES,,,YES,0,0,0
+Stabilizer,BPA_SS,YES,,,YES,0,0,0
+Stabilizer,IEE2ST,YES,,YES,NO,0,0,0
+Stabilizer,IEEEST,YES,YES,YES,NO,0,0,0
+Stabilizer,IVOST,YES,,YES,NO,0,0,0
+Stabilizer,PFQRG,YES,YES,,NO,0,0,0
+Stabilizer,PSS1A,YES,YES,Translate (IEEEST),NO,0,0,0
+Stabilizer,PSS2A,YES,YES,YES,NO,0,0,0
+Stabilizer,PSS2B,YES,YES,YES,NO,0,0,0
+Stabilizer,PSS2C,YES,YES,YES,NO,0,0,0
+Stabilizer,PSS3B,YES,YES,YES,NO,0,0,0
+Stabilizer,PSS3C,YES,YES,,NO,0,0,0
+Stabilizer,PSS4B,YES,,YES,NO,0,0,0
+Stabilizer,PSS4C,YES,,YES,NO,0,0,0
+Stabilizer,PSS5C,YES,,,NO,0,0,0
+Stabilizer,PSS6C,YES,YES,YES,NO,0,0,0
+Stabilizer,PSS7C,YES,YES,YES,NO,0,0,0
+Stabilizer,PSSSB,YES,YES,Translate (PSS2A),NO,0,0,0
+Stabilizer,PSSSH,YES,YES,,NO,0,0,0
+Stabilizer,PTIST1,YES,,YES,NO,0,0,0
+Stabilizer,PTIST3,YES,,YES,NO,0,0,0
+Stabilizer,SIGNALSTAB,YES,,,NO,0,0,0
+Stabilizer,ST2CUT,YES,Translate (WSCCST),YES,NO,0,0,0
+Stabilizer,STAB1,YES,Translate (IEEEST),YES,NO,0,0,0
+Stabilizer,STAB2A,YES,Translate (PSS2A),YES,NO,0,0,0
+Stabilizer,STAB3,YES,,YES,NO,0,0,0
+Stabilizer,STAB4,YES,,YES,NO,0,0,0
+Stabilizer,STBSVC,YES,,YES,NO,0,0,0
+Stabilizer,WSCCST,YES,YES,,NO,0,0,0
+Stabilizer,WT12A1,YES,Translate (WT1P),YES,NO,0,0,0
+Stabilizer,WT1P,YES,YES,Translate (WT12A1),NO,0,0,0
+Stabilizer,WT1P_B,YES,YES,Translate (WT1P_B),NO,0,0,0
+Stabilizer,WT2P,YES,YES,Translate (WT12A1),NO,0,0,0
+Stabilizer,WT3P,YES,YES,Translate (WT3P1),NO,0,0,0
+Stabilizer,WT3P1,YES,Translate (WT3P),YES,NO,0,0,0
+Stabilizer,WTGPT_A,YES,YES (WTGP_A),Translate (WTPTA1),NO,0,0,0
+Stabilizer,WTGPT_B,YES,Translate (WTGP_A),Translate (WTPTA1),NO,0,0,0
+Stabilizer,WTPTA1,YES,Translate (WTGP_A),YES,NO,0,0,0
+Stator Current Limiter,SCL1C,YES,,,NO,0,0,0
+Stator Current Limiter,SCL2C,YES,,,NO,0,0,0
+Switched Shunt Model,ABBSVC1,YES,,YES,NO,0,0,0
+Switched Shunt Model,CAPRELAY,YES,,,NO,0,0,0
+Switched Shunt Model,CHSVCT,YES,,YES,NO,0,0,0
+Switched Shunt Model,CSSCST,YES,,YES,NO,0,0,0
+Switched Shunt Model,CSTCNT,YES,,YES,NO,0,0,0
+Switched Shunt Model,FACRI_SS,YES,,,NO,0,0,0
+Switched Shunt Model,MSC1,YES,YES,,NO,0,0,0
+Switched Shunt Model,MSR1,YES,YES,,NO,0,0,0
+Switched Shunt Model,MSS1,YES,YES,,NO,0,0,0
+Switched Shunt Model,MSS2,YES,YES,,NO,0,0,0
+Switched Shunt Model,SVCALS,YES,YES,,NO,0,0,0
+Switched Shunt Model,SVSMO1,YES,YES,Translate (SVSMO1T2),NO,0,0,0
+Switched Shunt Model,SVSMO1_AK_A,YES,,,NO,0,0,0
+Switched Shunt Model,SVSMO1_AK_B,YES,,,NO,0,0,0
+Switched Shunt Model,SVSMO2,YES,YES,Translate (SVSMO2T2),NO,0,0,0
+Switched Shunt Model,SVSMO3,YES,YES,YES (SVSMO3T2),NO,0,0,0
+Switched Shunt Model,SWSHNT,YES,,YES,NO,0,0,0
+Tap Control,LTC1,YES,YES,,NO,0,0,0
+Under Excitation Limiter,MNLEX1,YES,,YES,NO,0,0,0
+Under Excitation Limiter,MNLEX2,YES,,YES,NO,0,0,0
+Under Excitation Limiter,MNLEX3,YES,,YES,NO,0,0,0
+Under Excitation Limiter,UEL1,YES,YES,YES,NO,0,0,0
+Under Excitation Limiter,UEL2,YES,YES,,NO,0,0,0
+Under Excitation Limiter,UEL2_PTI,YES,,YES (UEL2),NO,0,0,0
+Under Excitation Limiter,UEL2C,YES,YES,YES,NO,0,0,0
+Under Excitation Limiter,UEL2C_PTI,YES,YES (UEL2C),YES (UEL2C),NO,0,0,0
+Voltage Compensator,CCOMP,YES,YES,Translate (COMPCC),NO,0,0,0
+Voltage Compensator,CCOMP4,YES,YES,,NO,0,0,0
+Voltage Compensator,COMP,YES,,YES,NO,0,0,0
+Voltage Compensator,COMPCC,YES,Translate (CCOMP),YES,NO,0,0,0
+Voltage Compensator,IEEEVC,YES,,YES,NO,0,0,0
+Voltage Compensator,REMCMP,YES,,YES,NO,0,0,0
+VSCDC Line Model,VHVDC1,YES,YES,YES,NO,0,0,0
+VSCDC Line Model,VSCDCT,YES,,YES,NO,0,0,0
